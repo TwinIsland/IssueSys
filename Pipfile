@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+protobuf = "*"
+transformers = "==4.30.2"
+cpm-kernels = "*"
+torch = ">=2.0"
+gradio = "*"
+mdtex2html = "*"
+sentencepiece = "*"
+accelerate = "*"
+sse-starlette = "*"
+streamlit = ">=1.24.0"
+text2vec = "*"
+pywebio = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
