@@ -35,7 +35,7 @@ address = ./cache
 
 ### Step 4: Run
 
-`Jupyter`打开`test.ipynb`，先运行前两个`block`加载模型以及embedding类，然后就不用反复运行了。加载完成后运行后两个`block`测试模型。
+`Jupyter`打开`test.ipynb`，先运行前两个`block`加载模型以及`embedding`类，然后就不用反复运行了。加载完成后运行后两个`block`测试模型。
 
 ### 其他
 
